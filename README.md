@@ -6,3 +6,4 @@
 ## Maaaais um titulo ai ai
 
 *comando git push
+*comando git pull
